@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "958711702891",
+    "firebase_url": "https://napominalki-29cff-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "napominalki-29cff",
+    "storage_bucket": "napominalki-29cff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958711702891:android:1cbacc8d80166b5f9a982e",
+        "android_client_info": {
+          "package_name": "com.kalanco.napominalki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958711702891-ejqb0kjqot04nathegg6dpplkbg0s1eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8vOt07A2tUn6r9VrP_Mb1U9KLN_BCNg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958711702891-ejqb0kjqot04nathegg6dpplkbg0s1eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
